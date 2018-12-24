@@ -1,0 +1,15 @@
+Sample	response
+SRR1566088	responder
+SRR1566089	non-responder
+SRR1566090	responder
+SRR1566091	non-responder
+SRR1566092	non-responder
+SRR1566093	non-responder
+SRR1566094	non-responder
+SRR1566095	responder
+SRR1566097	non-responder
+SRR1566096	responder
+SRR1566098	responder
+SRR1566099	responder
+SRR1566100	responder
+SRR1566101	responder
